@@ -9,3 +9,4 @@ In this application user may upload a photo or take a picture, and then the user
 
 ## Future Improvements 
 Coming soon...
+Integration of http://best-hashtags.com/hashtag/waterfall/
